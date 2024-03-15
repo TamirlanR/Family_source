@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Family Balance</string>
+    <string name="sigIn">Вход</string>
+    <string name="loginText">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="inCorrectPass">Пароль не совпадает</string>
+    <string name="signInButton">Войти</string>
+    <string name="anotherEntrance">Или зарегистрируйтесь с помощью</string>
+    <string name="login_email_com">login@email.com</string>
+    <string name="star">******</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="image">image</string>
+    <string name="nextButton"><![CDATA[Далее ]]></string>
+    <string name="firstText">Возьмите под \n контроль свои \nфинансы</string>
+    <string name="behing"><![CDATA[ Назад]]></string>
+    <string name="begin">Начать</string>
+    <string name="secondText">Следите за своими \n финансами и достигайте \n своих финансовых \n целей</string>
+    <string name="thirdText">Устраните финансовый \n стресс и никогда больше не \n перерасходуйте деньги</string>
+    <string name="fouthText">Обеспечьте свое финансовое \n будущее и возьмите на себя \n ответственность за свои \n деньги</string>
+    <string name="behingButtonText">Назад</string>
+</resources>
